@@ -23,7 +23,8 @@ Step 1: "42" (no characters read because there is no leading whitespace)
 Step 2: "42" (no characters read because there is neither a '-' nor '+')
          ^
 Step 3: "42" ("42" is read in)
-           ^
+          ^
+
 Example 2:
 
 Input: s = " -042"
