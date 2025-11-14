@@ -12,7 +12,6 @@ public:
             sign=1;
             i++;
         }
-
         int num=0;
         while(isdigit(s[i])){
            int digit = s[i] - '0';
