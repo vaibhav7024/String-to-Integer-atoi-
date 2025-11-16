@@ -13,7 +13,6 @@ Example 1:
 
 Input: s = "42"
 
-
 Output: 42
 
 Explanation:
