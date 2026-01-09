@@ -77,8 +77,6 @@ Explanation:
 
 Reading stops at the first non-digit character 'w'.
 
- 
-
 Constraints:
 
 0 <= s.length <= 200
