@@ -1,6 +1,3 @@
-
-
-
 String To INT (atoi)
 
 Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
